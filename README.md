@@ -3,6 +3,7 @@
 [![PyPI version](https://badge.fury.io/py/directsync.svg)](https://badge.fury.io/py/directsync)
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 [![image](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/Anmol-Singh-Jaggi)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAnmol-Singh-Jaggi%2Fdirectsync.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAnmol-Singh-Jaggi%2Fdirectsync?ref=badge_shield)
 
 An efficient and easy-to-use utility to compare/synchronize/mirror folder contents.
 
@@ -63,3 +64,6 @@ An efficient and easy-to-use utility to compare/synchronize/mirror folder conten
  - ~~Add `simulate` option.~~
  - ~~Add `use-trash` option to send to recycle bin instead of delete/overwrite.~~
  - ~~Add `cache` option to cache the results of the previous difference check to disk.~~
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAnmol-Singh-Jaggi%2Fdirectsync.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAnmol-Singh-Jaggi%2Fdirectsync?ref=badge_large)
